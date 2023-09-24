@@ -10,3 +10,9 @@ a {
     color: white;
     text-decoration: none;
 }
+
+@media (width: 320px) {
+    .forLinksHead {
+        justify-content: center;
+    }
+}
